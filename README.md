@@ -25,10 +25,12 @@ Here are some ideas to get you started:
 <img src="https://github.com/ye-s-rin/ye-s-rin/assets/46209669/21f7d87b-73ea-4eb0-9ae3-80b9f3b30e65" width="50" height="50"> 
 StarUML
 
+
 ## 자격증
 ##### 정보처리기사
 ##### SQLD
 ##### ISTQB - CTFL
+
 
 ## 인턴 경력
 ##### 기업은행 (2023.07.21 ~ 2023.08.25)
