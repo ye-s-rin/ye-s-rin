@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyr53540)](https://github.com/pyr53540/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ye-s-rin)](https://github.com/ye-s-rin/github-readme-stats)
