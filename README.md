@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...kjkjkjk
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -40,3 +40,9 @@ ISTQB - CTFL
 ## Github
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ye-s-rin)](https://github.com/ye-s-rin/github-readme-stats)
+
+## Goal
+- 가치관 : 개발보다는 운영을 더 잘하는 개발자
+- 철학 : 테스팅을 잘 하자
+- 어떠한 개발자 : TDD를 실현하는 개발자
+
