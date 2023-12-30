@@ -42,7 +42,7 @@ ISTQB - CTFL
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ye-s-rin)](https://github.com/ye-s-rin/github-readme-stats)
 
 ## Goal
-- 가치관 : 운영까지 생각하는 개발자
-- 철학 : 테스팅을 잘 하자
+- 가치관 : 테스팅을 잘하자
+- 철학 : 운영까지 생각하는 개발
 - 어떠한 개발자 : TDD를 실현하는 개발자
 
