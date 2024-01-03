@@ -58,13 +58,13 @@ ISTQB - CTFL
 * 여신  
   * 단말화면 유지보수  
     WebSquare에서 JavaScript를 활용해 단말화면을 유지보수  
-
+<!--
 ## Github
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ye-s-rin)](https://github.com/ye-s-rin/github-readme-stats)
-
+-->
 ## Goal
 - 가치관 : 테스팅을 잘하자
 - 철학 : 운영까지 생각하는 개발
 - 어떠한 개발자 : TDD를 실현하는 개발자
-
+- Final Vocabulary : 호好
