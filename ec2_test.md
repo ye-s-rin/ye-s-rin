@@ -16,8 +16,8 @@
 - 각 인스턴스에 Anaconda 설치 후 가상 환경 생성
 - 가상 환경에서 수강생의 Github 페이지를 Crawling하는 python 코드 실행
     - Crawling Code
+- 5번씩 실행 후 평균 계산
         
-        ```python
         import requests
         from bs4 import BeautifulSoup
         import os
@@ -46,11 +46,26 @@
         end = time.time()
         
         print(f"{end - start} 초")
-        ```
+        
         
 
 > 💡 **실험 결과**
 
-- nano : 2.07187557220459 sec
-- small : 2.117833375930786 sec
-- micro : 2.371096611022949 sec
+
+**실행 속도**
+| t4g.nano | t4g.micro | t4g.small |
+| --- | --- | --- |
+| 1.946 sec | 2.032 sec | 2.001 sec |
+
+- small의 인스턴스가 가장 크기 때문에 가장 빠를 줄 알았는데, nano < small < micro 순서대로 빠르게 나왔음
+- 인스턴스가 얼마나 많은 CPU 성능을 사용할 수 있는지를 결정하는 지표인 **CPU 크레딧 사용량**을 비교했음
+
+  
+**크레딧 사용량**
+| t4g.nano | t4g.micro | t4g.small |
+| --- | --- | --- |
+| 0.308 | 0.371 | 0.193 |
+
+
+**AWS 공식 문서에 나와있는 인스턴스 사양**
+![image](https://github.com/seohee99/shinhan-pro-digital-academy/assets/53520867/3542a7e1-03b7-4ae8-a3d3-4b10244e1f86)
